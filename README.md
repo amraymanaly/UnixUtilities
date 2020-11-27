@@ -3,7 +3,7 @@ Some Unix Utilities for use on Unix-like/Linux systems. Fairly small utility pro
 
 ## repnum.c
 
-Displays a number in various base representations.
+#### Displays a number in various base representations.
 
-  --base or -b [base]   force a base. Possible values are 2 through 36.
-  --version or -v       output version then exit.
+  ###### --base or -b [base]   force a base. Possible values are 2 through 36.
+  ###### --version or -v       output version then exit.
